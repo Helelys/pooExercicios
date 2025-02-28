@@ -58,6 +58,21 @@ public class Main {
 
         */
 
+        /* 4º) Faça um programa para ler a cotação do dólar,
+        e depois um valor em dólares a ser comprado por uma pessoa em reais.
+        Informar quantos reais a pessoa vai pagar pelos dólares, considerando ainda que a
+        pessoa terá que pagar 6% de IOF sobre o valor em dólar. Criar uma classe CurrencyConverter para ser
+        responsável pelos cálculos.
 
+        System.out.println("Qual valor atual do dólar?");
+        double dolar = teclado.nextDouble();
+
+        System.out.println("Quantos dólares você quer?");
+        double dolarQuantidade = teclado.nextDouble();
+
+        Cotacao gasto = new Cotacao(dolarQuantidade, dolar);
+
+        gasto.cotado();
+        */
     }
 }
