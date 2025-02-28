@@ -39,7 +39,7 @@ public class Main {
         Ao final, mostrar qual a nota final do aluno no ano. Dizer também se o aluno está aprovado (APROVADO)
         ou não (REPROVADO) e, em caso negativo, quantos pontos faltaram para o aluno obter o mínimo para ser aprovado
         (que é 60% da nota). Você deve criar uma classe Student para resolver este problema.
-        */
+
 
         System.out.println("Digite as três notas referentes aos três trimestres!");
         double nota1 = teclado.nextDouble();
@@ -55,5 +55,9 @@ public class Main {
 
         Aluno tallys = new Aluno("Tallys", nota1, nota2, nota3);
         tallys.notaFinal();
+
+        */
+
+
     }
 }
