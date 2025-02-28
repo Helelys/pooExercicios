@@ -74,5 +74,7 @@ public class Main {
 
         gasto.cotado();
         */
+
+        teclado.close();
     }
 }
